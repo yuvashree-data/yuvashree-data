@@ -21,6 +21,9 @@
 - 🧬 **Early Detection of Lymphoma using ML** – [Coming soon]
 - 📊 **Sales Dashboard using Power BI** – [Coming soon]
 - 🤖 **Python Automation Scripts** – [Coming soon]
+- CS50 Python  
+- Daily Data Analyst Practice  
+- End-to-end Real Projects
 
 ---
 
